@@ -169,6 +169,7 @@ namespace ProjectTextEditor {
 			// 
 			// textBoxChanges
 			// 
+			this->textBoxChanges->Enabled = false;
 			this->textBoxChanges->Location = System::Drawing::Point(236, 292);
 			this->textBoxChanges->Name = L"textBoxChanges";
 			this->textBoxChanges->Size = System::Drawing::Size(398, 26);
